@@ -1,0 +1,15 @@
+body{
+    background-color: blue;
+    padding: 5px;
+    margin: 5%;
+}
+
+.button{
+    background-color: brown;
+    padding: 5px;
+    margin-top: 50px;
+    width: 20%;
+}
+.button:hover{
+    background-color: chartreuse;
+}
